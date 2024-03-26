@@ -22,7 +22,7 @@
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm a Mobile Developer at @corebiz
+- :computer: I'm a Mobile Developer
 - :rocket: Always ready to collaborate on projects
 - :man_technologist: Graduated in Software Engineering
 
